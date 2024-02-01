@@ -1,0 +1,19 @@
+name: Plugin
+version: 1.2
+main: com.example.PluginMain
+api-version: '1.19'
+
+
+commands:
+  start:
+    description: starts game
+    usage: /<command>
+  ping:
+    description: pong
+    usage: /<command>
+  jointeam:
+    description: Joins Team
+    usage: /<command> color
+  teststart:
+    description: tests the start of the game
+    usage: /<command>
