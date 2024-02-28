@@ -5,4 +5,5 @@ Commands:
 /JoinTeam [color] : Command to join a team
 
 /StartGame : Command to start the game using the default settings which can be customized in the Game_Settings.txt
+
 /TestStartGame : Will do everything setup wise as if the game was starting but won't start the clock. 
